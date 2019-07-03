@@ -1,4 +1,4 @@
-package sg.vp.owasp_mobile.OMTG_Android;
+*package sg.vp.owasp_mobile.OMTG_Android;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
